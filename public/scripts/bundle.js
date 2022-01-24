@@ -20,3 +20,6 @@ var Hangman = function () {
 
     return Hangman;
 }();
+
+var hangman = new Hangman();
+console.log(hangman.myMethod());

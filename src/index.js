@@ -5,3 +5,6 @@ class Hangman {
         return "Testing"
     }
 }
+
+const hangman = new Hangman()
+console.log(hangman.myMethod())
