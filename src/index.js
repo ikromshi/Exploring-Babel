@@ -1,4 +1,5 @@
-const name = "jen"
+const name = "Ten"
+console.log(name)
 
 class Hangman {
     myMethod() {
